@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="fact_check-24px" transform="translate(-0.35 -0.35)">
+    <g id="Group_1127" data-name="Group 1127">
+      <rect id="Rectangle_960" data-name="Rectangle 960" width="42" height="42" transform="translate(0.35 0.35)" fill="none"/>
+    </g>
+    <g id="Group_1129" data-name="Group 1129" transform="translate(3.558 5.337)">
+      <g id="Group_1128" data-name="Group 1128">
+        <path id="Path_2177" data-name="Path 2177" d="M34.024,3H5.558A3.569,3.569,0,0,0,2,6.558V31.466a3.569,3.569,0,0,0,3.558,3.558H34.024a3.569,3.569,0,0,0,3.558-3.558V6.558A3.569,3.569,0,0,0,34.024,3Zm0,28.466H5.558V6.558H34.024Z" transform="translate(-2 -3)" fill="#38b349"/>
+        <path id="Path_2178" data-name="Path 2178" d="M25.183,11.526,22.657,9l-5.64,5.64-2.509-2.526L12,14.622l5.017,5.053Z" transform="translate(5.791 1.675)" fill="#38b349"/>
+        <rect id="Rectangle_961" data-name="Rectangle 961" width="8" height="3" transform="translate(5.791 7.012)" fill="#38b349"/>
+        <rect id="Rectangle_962" data-name="Rectangle 962" width="8" height="4" transform="translate(5.791 14.012)" fill="#38b349"/>
+        <rect id="Rectangle_963" data-name="Rectangle 963" width="8" height="3" transform="translate(5.791 22.012)" fill="#38b349"/>
+      </g>
+    </g>
+  </g>
+</svg>

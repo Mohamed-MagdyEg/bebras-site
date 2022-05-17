@@ -1,0 +1,23 @@
+/*
+    Youtube Background
+*/
+#iframe_videoPlayerBG{
+    margin-left: 0px !important;
+}
+.inline-YTPlayer{
+    width: 100% !important;
+    height: 100% !important;
+    max-width:  unset !important;
+}
+.player.mb_YTPlayer {
+    width: 100%;
+    height: 100% !important;
+    display: block;
+}
+#controlBar_videoPlayerBG{
+    height: 100% !important;
+}
+.mawhiba-home-section1 .item{
+    width: 100% !important;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJtYWluL2NvbXBvbmVudHMveW91dHViZS1iYWNrZ3JvdW5kLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gICAgWW91dHViZSBCYWNrZ3JvdW5kXHJcbiovXHJcbiNpZnJhbWVfdmlkZW9QbGF5ZXJCR3tcclxuICAgIG1hcmdpbi1sZWZ0OiAwcHggIWltcG9ydGFudDtcclxufVxyXG4uaW5saW5lLVlUUGxheWVye1xyXG4gICAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDtcclxuICAgIGhlaWdodDogMTAwJSAhaW1wb3J0YW50O1xyXG4gICAgbWF4LXdpZHRoOiAgdW5zZXQgIWltcG9ydGFudDtcclxufVxyXG4ucGxheWVyLm1iX1lUUGxheWVyIHtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxufVxyXG4jY29udHJvbEJhcl92aWRlb1BsYXllckJHe1xyXG4gICAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XHJcbn1cclxuLm1hd2hpYmEtaG9tZS1zZWN0aW9uMSAuaXRlbXtcclxuICAgIHdpZHRoOiAxMDAlICFpbXBvcnRhbnQ7XHJcbn0iXSwiZmlsZSI6Im1haW4vY29tcG9uZW50cy95b3V0dWJlLWJhY2tncm91bmQuY3NzIn0= */

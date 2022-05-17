@@ -1,0 +1,37 @@
+/*
+    Chart
+*/
+#my-bar-chart {
+    width: 100% !important;
+    direction: ltr !important;
+}
+
+    #my-bar-chart .bar {
+        margin: 0px 27px;
+        width: 8% !important;
+    }
+
+#my-bar-chart .bar-section {
+    background: var(--blue-color) !important;
+}
+#my-bar-chart .value{
+    display: none;
+}
+#my-bar-chart .graph{
+    border-left: 1px solid #E2E2E2 !important;
+    border-bottom: 1px solid #E2E2E2 !important;
+}
+    #my-bar-chart .x-axis-labels div {
+        font-size: 17px !important;
+        font-family: var(--meduim-font);
+        margin-top: 15px;
+    }
+    #my-bar-chart .tick-values div{
+        font-size: 17px !important;
+        font-family: var(--meduim-font);
+        margin-right: 15px;
+    }
+.ticks div{
+    border-top:none !important;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJtYWluL2NvbXBvbmVudHMvY2hhcnQuY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAgICBDaGFydFxyXG4qL1xyXG4jbXktYmFyLWNoYXJ0IHtcclxuICAgIHdpZHRoOiAxMDAlICFpbXBvcnRhbnQ7XHJcbiAgICBkaXJlY3Rpb246IGx0ciAhaW1wb3J0YW50O1xyXG59XHJcblxyXG4gICAgI215LWJhci1jaGFydCAuYmFyIHtcclxuICAgICAgICBtYXJnaW46IDBweCAyN3B4O1xyXG4gICAgICAgIHdpZHRoOiA4JSAhaW1wb3J0YW50O1xyXG4gICAgfVxyXG5cclxuI215LWJhci1jaGFydCAuYmFyLXNlY3Rpb24ge1xyXG4gICAgYmFja2dyb3VuZDogdmFyKC0tYmx1ZS1jb2xvcikgIWltcG9ydGFudDtcclxufVxyXG4jbXktYmFyLWNoYXJ0IC52YWx1ZXtcclxuICAgIGRpc3BsYXk6IG5vbmU7XHJcbn1cclxuI215LWJhci1jaGFydCAuZ3JhcGh7XHJcbiAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICNFMkUyRTIgIWltcG9ydGFudDtcclxuICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjRTJFMkUyICFpbXBvcnRhbnQ7XHJcbn1cclxuICAgICNteS1iYXItY2hhcnQgLngtYXhpcy1sYWJlbHMgZGl2IHtcclxuICAgICAgICBmb250LXNpemU6IDE3cHggIWltcG9ydGFudDtcclxuICAgICAgICBmb250LWZhbWlseTogdmFyKC0tbWVkdWltLWZvbnQpO1xyXG4gICAgICAgIG1hcmdpbi10b3A6IDE1cHg7XHJcbiAgICB9XHJcbiAgICAjbXktYmFyLWNoYXJ0IC50aWNrLXZhbHVlcyBkaXZ7XHJcbiAgICAgICAgZm9udC1zaXplOiAxN3B4ICFpbXBvcnRhbnQ7XHJcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLW1lZHVpbS1mb250KTtcclxuICAgICAgICBtYXJnaW4tcmlnaHQ6IDE1cHg7XHJcbiAgICB9XHJcbi50aWNrcyBkaXZ7XHJcbiAgICBib3JkZXItdG9wOm5vbmUgIWltcG9ydGFudDtcclxufSJdLCJmaWxlIjoibWFpbi9jb21wb25lbnRzL2NoYXJ0LmNzcyJ9 */
